@@ -1,8 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">Hi 👋, I'm Shakibul Hasan</h1>
 <h3 align="center">A passionate DETA SCIENTIST from BANGLADESH</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibulh&label=Profile%20views&color=0e75b6&style=flat" alt="shakibulh" /> </p>
 
